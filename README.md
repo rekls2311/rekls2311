@@ -8,7 +8,7 @@ My name is Hoang Long Nguyen, and I'm a Graduate Data Analyst looking to land my
 ---
 
 ### 💻 Languages & Tools Used for Data Analytics
-<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/excel/excel-original.svg"/>
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
