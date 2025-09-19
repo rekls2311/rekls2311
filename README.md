@@ -25,4 +25,11 @@ My name is Hoang Long Nguyen, and I'm a Graduate Data Analyst looking to land my
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rekls2311&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rekls2311/rekls2311/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rekls2311/rekls2311/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/rekls2311/rekls2311/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
