@@ -1,4 +1,4 @@
-# Welcome to my GitHub Page!! 👋👋👋
+# Welcome to my GitHub Page 👋
 
 
 ### 🎓 Earned a Bachelor's Degree in IT specializing in Data Analytics at RMIT University 
